@@ -1,0 +1,10 @@
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\bin\Debug\Rock_Papier_Schere.exe.config
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\bin\Debug\Rock_Papier_Schere.exe
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\bin\Debug\Rock_Papier_Schere.pdb
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\obj\Debug\Rock_Papier_Schere.csproj.AssemblyReference.cache
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\obj\Debug\Rock_Papier_Schere.Form1.resources
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\obj\Debug\Rock_Papier_Schere.Properties.Resources.resources
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\obj\Debug\Rock_Papier_Schere.csproj.GenerateResource.cache
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\obj\Debug\Rock_Papier_Schere.csproj.CoreCompileInputs.cache
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\obj\Debug\Rock_Papier_Schere.exe
+D:\c#\games\Rock_Paper_Scissors\Rock_Papier_Schere\Rock_Papier_Schere\obj\Debug\Rock_Papier_Schere.pdb
