@@ -1,0 +1,10 @@
+D:\c#\games\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.exe.config
+D:\c#\games\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.exe
+D:\c#\games\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.pdb
+D:\c#\games\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.csproj.AssemblyReference.cache
+D:\c#\games\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.Form1.resources
+D:\c#\games\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.Properties.Resources.resources
+D:\c#\games\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.csproj.GenerateResource.cache
+D:\c#\games\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.csproj.CoreCompileInputs.cache
+D:\c#\games\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.exe
+D:\c#\games\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.pdb
